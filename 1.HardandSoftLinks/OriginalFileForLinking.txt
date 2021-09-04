@@ -1,0 +1,2 @@
+This is the original file that gets a soft link and a hard link using shell commands and system calls.
+
