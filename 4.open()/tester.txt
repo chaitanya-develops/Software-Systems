@@ -1,0 +1,3 @@
+This file is used for opening it with open system call in read and write mode.
+This is the second line
+third line
